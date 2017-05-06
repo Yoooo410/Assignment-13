@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		C4AE513F1EBD2C3100FD88EE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C4AE513E1EBD2C3100FD88EE /* main.m */; };
+		C4AE514A1EBD383800FD88EE /* Pig Latin.m in Sources */ = {isa = PBXBuildFile; fileRef = C4AE51491EBD383800FD88EE /* Pig Latin.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,8 @@
 /* Begin PBXFileReference section */
 		C4AE513B1EBD2C3100FD88EE /* Assignment#13 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Assignment#13"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C4AE513E1EBD2C3100FD88EE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		C4AE51481EBD383800FD88EE /* Pig Latin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Pig Latin.h"; sourceTree = "<group>"; };
+		C4AE51491EBD383800FD88EE /* Pig Latin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "Pig Latin.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +61,8 @@
 			isa = PBXGroup;
 			children = (
 				C4AE513E1EBD2C3100FD88EE /* main.m */,
+				C4AE51481EBD383800FD88EE /* Pig Latin.h */,
+				C4AE51491EBD383800FD88EE /* Pig Latin.m */,
 			);
 			path = "Assignment#13";
 			sourceTree = "<group>";
@@ -119,6 +124,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C4AE514A1EBD383800FD88EE /* Pig Latin.m in Sources */,
 				C4AE513F1EBD2C3100FD88EE /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
